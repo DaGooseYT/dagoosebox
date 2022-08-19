@@ -1,0 +1,23 @@
+Componant,Description,Quantity,Manufacturer,Manufacturer Part Number ,Additional Comment
+"R1, R2",1KΩ 1/4w ±1%,2,-,-,-
+"R3, R5",120Ω 1/4w ±1%,2,-,-,-
+"R4, R6, R7, R8, R9, R10",10KΩ 1/4w ±1%,6,-,-,-
+"R11, R12, R13, R14",56Ω 1/2w ±1%,4,-,-,-
+"R15, R16",100Ω 1/4w ±1%,2,-,-,-
+"R17, R18",8.2Ω 1/4w ±1%,2,-,-,-
+C1,2200uF 25v ±10%,1,-,-,Electrolytic
+"C2, C6, C7, C8, C10",100nF 100v ±10%,5,-,-,Ceramic
+"C3, C11, C14",10uF 50v ±10%,3,-,-,Electrolytic
+"C4, C5",1uF 100v ±10%,2,-,-,CBB/Polyester Film
+C9,470uF 10v ±10%,1,-,-,Electrolytic
+"C12, C13",33nF 100v ±10%,2,-,-,Polyester Film
+C15,47uF 25v ±10%,1,-,-,Electrolytic
+TIP31C,High power NPN transistor,2,STMicroelectronics,TIP31C,Used with small TO-220 heat sink (optional)
+L7812,12v linear voltage regulator,1,STMicroelectronics,L7812,Used with small TO-220 heat sink (required)
+L7805,5v linear voltage regulator,1,STMicroelectronics,L7805,Used with small TO-220 heat sink (optional)
+B0505S-1W,5v power isolator,1,K-CUT,B0505S-1WR3,-
+KRC-86B v4.0,Bluetooth v4.0 module,1,-,KRC-86B v4.0,Used 1x15 2mm pitch pin headers
+TDA7375AV,2x37w linear power amplifier,1,STMicroelectronics,E-TDA7375AV,Avoid buying fakes! Only buy from authorized distributors
+"SPKL, SPKR, SW, PWR",1x2 2.54mm JST socket,4,JST,XH2.54-2p,-
+AUXIN,1x3 2.54mm JST socket,1,JST,XH2.54-3p,-
+LED,1x4 2.54mm JST socket,1,JST,XH2.54-4p,-
