@@ -4,7 +4,7 @@
 [dgbox]: https://github.com/DaGooseYT/dagoosebox/blob/main/ghdemo.png
 
 
-A Hi-Fi linear Class AB amplifier with Bluetooth v4.0 compatibility and enhanced/3D stereo playback.
+A Hi-Fi linear Class AB amplifier with Bluetooth v4.0 compatibility and enhanced/3D stereo playback. Watch the video guide about it here: https://youtu.be/7peg0jiGp7A
 
 ## Features
 - Very low THD (~0.02% @8ohm)
