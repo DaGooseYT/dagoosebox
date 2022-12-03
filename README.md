@@ -43,4 +43,4 @@ You will also need a 16v 4A power supply. This is not calculated in the price li
 - Required drill bits: 5mm, 8mm, 12mm
 
 ## Licensing
-This repo is licensed under the AGPL v3.0. Any images in this repository are licensed under CC BY-SA 3.0.
+This repo is licensed under the GPL v3.0 license. Any images in this repository are licensed under CC BY-SA 3.0.
