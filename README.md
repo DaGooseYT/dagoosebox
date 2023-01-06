@@ -30,7 +30,7 @@ A Hi-Fi linear Class AB amplifier with Bluetooth v4.0 compatibility and enhanced
 - Custom PCB (~$4.00): Price is an estimated average and can vary on the basis of where you get it manufactured and other characteristics such as the solder mask. 
 
 Estimated total component cost (No tax or shipping costs included): $49.87 USD
-*All components were priced on 7/25/2022. Prices of the componants above are subject to change according to each seller's policies.
+*All components were priced on 7/25/2022. Prices of the componants above are subject to change according to each seller's policies and inflation.
 
 You will also need a 16v 4A power supply. This is not calculated in the price list above. Here is the one I used for this project: https://amzn.to/3c4339q
 
