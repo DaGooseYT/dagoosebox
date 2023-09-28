@@ -1,8 +1,7 @@
 # DaGoose Box
-![alt text][dgbox]
-
-[dgbox]: https://github.com/DaGooseYT/dagoosebox/blob/main/ghdemo.png
-
+<p align="center">
+  <img align="top" src="https://github.com/DaGooseYT/dagoosebox/blob/main/ghdemo.png" width="700"/>
+</p>
 
 A Hi-Fi linear Class AB amplifier with Bluetooth v4.0 compatibility and enhanced/3D stereo playback. Watch the video guide about it here: https://youtu.be/7peg0jiGp7A
 
@@ -13,7 +12,7 @@ A Hi-Fi linear Class AB amplifier with Bluetooth v4.0 compatibility and enhanced
 - Simple PCB layout
 - PCB uses very common passive componants
 
-## Componant list
+## Component list
 - For the PCB components, please see the BoM located in `/BoM`
 
 - Black box ($9.58): https://amzn.to/3PJ2Jeg
@@ -29,10 +28,10 @@ A Hi-Fi linear Class AB amplifier with Bluetooth v4.0 compatibility and enhanced
 - TIP31C (x2, $1.46): https://bit.ly/3c4znce
 - Custom PCB (~$4.00): Price is an estimated average and can vary on the basis of where you get it manufactured and other characteristics such as the solder mask. 
 
-Estimated total component cost (No tax or shipping costs included): $49.87 USD
-*All components were priced on 7/25/2022. Prices of the componants above are subject to change according to each seller's policies and inflation.
+Estimated total component cost (No tax or shipping costs included): $49.87 USD<br />
+*All components were priced on 7/25/2022. Prices of the components above are subject to change according to each seller's policies and inflation.<br />
 
-You will also need a 16v 4A power supply. This is not calculated in the price list above. Here is the one I used for this project: https://amzn.to/3c4339q
+You will also need a 16v 4.5A power supply. This is not calculated in the price list above. Here is the one I used for this project: https://amzn.to/3c4339q
 
 ## Mechanical info
 
@@ -43,4 +42,4 @@ You will also need a 16v 4A power supply. This is not calculated in the price li
 - Required drill bits: 5mm, 8mm, 12mm
 
 ## Licensing
-This repo is licensed under the GPL v3.0 license. Any images in this repository are licensed under CC BY-SA 3.0.
+This repository is licensed under the GPL v3.0 license. Any images in this repository are licensed under CC BY-SA 3.0.
